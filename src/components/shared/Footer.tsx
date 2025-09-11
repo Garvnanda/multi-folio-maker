@@ -7,7 +7,7 @@ export const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="flex items-center space-x-2">
             <Shield className="h-6 w-6 text-primary" />
-            <span className="text-lg font-semibold text-foreground">Skill Passport 2.0</span>
+            <span className="text-lg font-semibold text-foreground">Skill Passport</span>
           </div>
           
           <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-8">
@@ -23,7 +23,7 @@ export const Footer = () => {
           </div>
           
           <div className="text-sm text-muted-foreground">
-            © 2024 Skill Passport 2.0. All rights reserved.
+            © 2024 Skill Passport. All rights reserved.
           </div>
         </div>
       </div>
